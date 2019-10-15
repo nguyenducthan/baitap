@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\61f4d2c6af7bd18f9cc4765b47bfa637\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\d0653fbb2afaf6333caaee586604d4f9\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\11c0003e2bbf0664f2646286c8c66f74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\fc8b3c2c57f9fcfda8f775b933c916ca\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\6c74ff953ff83e43d1077ab44d83eb51\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\2ded6c651578079f6bcbc3a4fe3a7b95\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\c7a65e5bae54dad1f5ae5b6b1accf9e1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\40fd7d7850cd138bb9de75f000e0f8a1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\8fef0c18b5d89bd6a03f0172be668473\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\66ed000ce42101e02ac921c36f3a5986\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\e948d1a42772e13c8cdc5922dac6edf9\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\3e4d989f01f5c6e10c08780850718adf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\46bc83e1f48ec67874000ff4e4cfd9e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\87e21c9a2761d253bcc4c53a46436a5d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\84c74512b7dff6313b50b2dda7aa0d53\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\630c9547e34f252052d3c9e9377be1f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\0f12a3eebaba3164e261f32abb59c79f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\fec534f6bb528716be049f3add4ad35f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\ad5a6c7d0fff5ff5cba9ca245de0b6de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\cc0858b00c736b45ebccb0b817ae6a6f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\08493fcd6681ead5e3f2ca2ebdf95525\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\eb6df90444e5bfa4ffbc7578616b4cb3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\0444ef68b8c4c74f5ecd5750e32d9667\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\7f13e941a429b886606e611ceffc79c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\ae4f861e005a303ba62aeba097f77945\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\bf3eae4d1e7746999595cef153ed62c4\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\889a09f79387f86f87b08ac609efbd35\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\60c8e8d8af100e35f7717864ca59ec17\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\7ac4bd74b9176c80f484e5f08fd6d4e6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\4ee71f97fa3d95357d7c3b4e9effb0d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\1c3e062d17caf8df8b128f78a5854d48\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\8ce102019b96a2c0518e4eb422757001\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\c8ee21b525bad7e29f456f5b59b48ab7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\051e14d57a95bc9267f22bab849d625d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\46d2cfe6e36618eb00c21186d5a8e83c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\37638ae5c6643dadafef7d1d0ed49c19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\decd52c551718aa081fc711e03f62319\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:2:3-30
+		INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:2:3-30
+		INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\61f4d2c6af7bd18f9cc4765b47bfa637\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\61f4d2c6af7bd18f9cc4765b47bfa637\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\e948d1a42772e13c8cdc5922dac6edf9\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\e948d1a42772e13c8cdc5922dac6edf9\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\ae4f861e005a303ba62aeba097f77945\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\ae4f861e005a303ba62aeba097f77945\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\bf3eae4d1e7746999595cef153ed62c4\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\bf3eae4d1e7746999595cef153ed62c4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\ae4f861e005a303ba62aeba097f77945\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.reactnewsfeed.MainActivity
+ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\61f4d2c6af7bd18f9cc4765b47bfa637\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\61f4d2c6af7bd18f9cc4765b47bfa637\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\d0653fbb2afaf6333caaee586604d4f9\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\d0653fbb2afaf6333caaee586604d4f9\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\11c0003e2bbf0664f2646286c8c66f74\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\11c0003e2bbf0664f2646286c8c66f74\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\fc8b3c2c57f9fcfda8f775b933c916ca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\fc8b3c2c57f9fcfda8f775b933c916ca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\6c74ff953ff83e43d1077ab44d83eb51\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\6c74ff953ff83e43d1077ab44d83eb51\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\2ded6c651578079f6bcbc3a4fe3a7b95\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\2ded6c651578079f6bcbc3a4fe3a7b95\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\c7a65e5bae54dad1f5ae5b6b1accf9e1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\c7a65e5bae54dad1f5ae5b6b1accf9e1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\40fd7d7850cd138bb9de75f000e0f8a1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\40fd7d7850cd138bb9de75f000e0f8a1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\8fef0c18b5d89bd6a03f0172be668473\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\8fef0c18b5d89bd6a03f0172be668473\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\66ed000ce42101e02ac921c36f3a5986\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\66ed000ce42101e02ac921c36f3a5986\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\e948d1a42772e13c8cdc5922dac6edf9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\e948d1a42772e13c8cdc5922dac6edf9\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\3e4d989f01f5c6e10c08780850718adf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\3e4d989f01f5c6e10c08780850718adf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\46bc83e1f48ec67874000ff4e4cfd9e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\46bc83e1f48ec67874000ff4e4cfd9e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\87e21c9a2761d253bcc4c53a46436a5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\87e21c9a2761d253bcc4c53a46436a5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\84c74512b7dff6313b50b2dda7aa0d53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\84c74512b7dff6313b50b2dda7aa0d53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\630c9547e34f252052d3c9e9377be1f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\630c9547e34f252052d3c9e9377be1f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\0f12a3eebaba3164e261f32abb59c79f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\0f12a3eebaba3164e261f32abb59c79f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\fec534f6bb528716be049f3add4ad35f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\fec534f6bb528716be049f3add4ad35f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\ad5a6c7d0fff5ff5cba9ca245de0b6de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\ad5a6c7d0fff5ff5cba9ca245de0b6de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\cc0858b00c736b45ebccb0b817ae6a6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\cc0858b00c736b45ebccb0b817ae6a6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\08493fcd6681ead5e3f2ca2ebdf95525\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\08493fcd6681ead5e3f2ca2ebdf95525\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\eb6df90444e5bfa4ffbc7578616b4cb3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\eb6df90444e5bfa4ffbc7578616b4cb3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\0444ef68b8c4c74f5ecd5750e32d9667\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\0444ef68b8c4c74f5ecd5750e32d9667\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\7f13e941a429b886606e611ceffc79c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\7f13e941a429b886606e611ceffc79c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\ae4f861e005a303ba62aeba097f77945\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\ae4f861e005a303ba62aeba097f77945\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\bf3eae4d1e7746999595cef153ed62c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\bf3eae4d1e7746999595cef153ed62c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\889a09f79387f86f87b08ac609efbd35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\889a09f79387f86f87b08ac609efbd35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\60c8e8d8af100e35f7717864ca59ec17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\60c8e8d8af100e35f7717864ca59ec17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\7ac4bd74b9176c80f484e5f08fd6d4e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\7ac4bd74b9176c80f484e5f08fd6d4e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\4ee71f97fa3d95357d7c3b4e9effb0d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\4ee71f97fa3d95357d7c3b4e9effb0d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\1c3e062d17caf8df8b128f78a5854d48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\1c3e062d17caf8df8b128f78a5854d48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\8ce102019b96a2c0518e4eb422757001\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\8ce102019b96a2c0518e4eb422757001\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\c8ee21b525bad7e29f456f5b59b48ab7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\c8ee21b525bad7e29f456f5b59b48ab7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\051e14d57a95bc9267f22bab849d625d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\051e14d57a95bc9267f22bab849d625d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\46d2cfe6e36618eb00c21186d5a8e83c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\46d2cfe6e36618eb00c21186d5a8e83c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\37638ae5c6643dadafef7d1d0ed49c19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\37638ae5c6643dadafef7d1d0ed49c19\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\decd52c551718aa081fc711e03f62319\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\decd52c551718aa081fc711e03f62319\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\android\app\src\debug\AndroidManifest.xml:5:22-75
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] C:\Users\nguye\OneDrive\Desktop\reactNewsFeed-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
